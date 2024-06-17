@@ -1,3 +1,5 @@
+Helpful Article Link: https://medium.com/@samirsw04/intregrating-nodemailer-in-next-14-using-oauth2-a76677b45649 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
